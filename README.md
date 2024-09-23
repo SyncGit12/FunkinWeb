@@ -27,4 +27,4 @@ Links :
 [itch.io](https://ninja-muffin24.itch.io/funkin)
 [Newgrounds](https://www.newgrounds.com/portal/view/770371)
 
-(This is not official, btw)
+(This repo is not official, btw)
